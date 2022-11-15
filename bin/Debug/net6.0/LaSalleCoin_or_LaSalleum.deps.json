@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LaSalleCoin_or_LaSalleum/1.0.0": {
+        "runtime": {
+          "LaSalleCoin_or_LaSalleum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LaSalleCoin_or_LaSalleum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
